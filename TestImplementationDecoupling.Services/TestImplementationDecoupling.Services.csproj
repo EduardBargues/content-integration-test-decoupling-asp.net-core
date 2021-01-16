@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TestImplementationDecoupling.ExternalCache\TestImplementationDecoupling.ExternalCache.csproj" />
     <ProjectReference Include="..\TestImplementationDecoupling.Services.Abstractions\TestImplementationDecoupling.Services.Abstractions.csproj" />
   </ItemGroup>
 

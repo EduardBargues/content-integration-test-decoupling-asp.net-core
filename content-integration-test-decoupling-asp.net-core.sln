@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestImplementationDecouplin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestImplementationDecoupling.Tests", "TestImplementationDecoupling.Tests\TestImplementationDecoupling.Tests.csproj", "{0AC39926-A014-4428-857F-863EC3872ED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestImplementationDecoupling.ExternalCache", "TestImplementationDecoupling.ExternalCache\TestImplementationDecoupling.ExternalCache.csproj", "{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{0AC39926-A014-4428-857F-863EC3872ED4}.Release|x64.Build.0 = Release|Any CPU
 		{0AC39926-A014-4428-857F-863EC3872ED4}.Release|x86.ActiveCfg = Release|Any CPU
 		{0AC39926-A014-4428-857F-863EC3872ED4}.Release|x86.Build.0 = Release|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Debug|x64.Build.0 = Debug|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Debug|x86.Build.0 = Debug|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Release|x64.ActiveCfg = Release|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Release|x64.Build.0 = Release|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{BFC1E3F2-E865-4341-A2C6-7932B3EF41A0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
